@@ -1,4 +1,4 @@
-# RAG Chatbot Document Uploader
+# RAG Chatbot 
 
 This project is an end-to-end Retrieval-Augmented Generation (RAG) chatbot system. Users can upload documents (PDFs), and the chatbot answers questions by retrieving relevant content and generating contextual responses.
 
