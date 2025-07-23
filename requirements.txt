@@ -1,0 +1,7 @@
+acp-sdk
+faiss-cpu
+sentence-transformers
+PyPDF2
+openai
+python-dotenv
+numpy
